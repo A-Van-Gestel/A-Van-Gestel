@@ -11,7 +11,7 @@ My name is Axel Van Gestel, a student at IT Factory Thomas More Geel. I'm from B
     </a>
 </p>
 
-## 🔭 Currently working on
+## 🛠 Currently working on
 - School projects
   
 ## 📂 Side Projects
@@ -19,4 +19,3 @@ My name is Axel Van Gestel, a student at IT Factory Thomas More Geel. I'm from B
 
 ## 🤔 Planned Projects
 - Booru-style imageboard like website written in PHP Laravel
-- Web compatible version of [Girls Frontline Information Database (Project Cordova 2020 - 2021)](https://github.com/A-Van-Gestel/2APPAI1-CORDOVA-Project_Cordova_2020-2021)
