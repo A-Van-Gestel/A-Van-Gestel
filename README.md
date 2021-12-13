@@ -19,3 +19,5 @@ My name is Axel Van Gestel, a student at IT Factory Thomas More Geel. I'm from B
 
 ## 🤔 Planned Projects
 - Booru-style imageboard like website written in PHP Laravel
+- Total rewrite of the [Girls Frontline Information Database](https://github.com/A-Van-Gestel/2APPAI1-CORDOVA-Project_Cordova_2020-2021) in Angular
+- Give my homepage a total makeover
