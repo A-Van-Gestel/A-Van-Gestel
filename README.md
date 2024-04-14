@@ -1,5 +1,5 @@
 # Hello fellow traveller
-My name is Axel Van Gestel, an Engineering Consultant at RP One and former student at IT Factory Thomas More Geel. I'm from Belgium and my main languages are Dutch and English.
+My name is Axel Van Gestel, a former student at IT Factory Thomas More Geel. I'm from Belgium and my main languages are Dutch and English.
 
 ## 📈 GitHub Stats
 <p float="left">
