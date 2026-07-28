@@ -12,7 +12,7 @@ My name is Axel Van Gestel, a former student at IT Factory Thomas More Geel. I'm
 </p>
 
 ## 🛠 Currently working on
-- [Unity - Voxel Engine Project (eg: Minecraft-ish](https://github.com/A-Van-Gestel/Unity-Minecraft_Clone)
+- [Unity - Voxel Engine Project (eg: Minecraft-ish)](https://github.com/A-Van-Gestel/Unity-Minecraft_Clone)
   
 ## 📂 Side Projects
 - [Girls Frontline Information Database (Project Cordova 2020 - 2021)](https://github.com/A-Van-Gestel/2APPAI1-CORDOVA-Project_Cordova_2020-2021)
